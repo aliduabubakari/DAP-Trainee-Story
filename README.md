@@ -1,8 +1,6 @@
 # 📈🧪 Data Analytics Program 🧠📊 : Story of *___Alidu_Abubakari__*
 Here is the place to tell the story of your experience of the Data Analytics Program.
 
-**Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
-
 ## Let me introduce Myself
 
 👋 Hello! I'm Alidu Abubakari, and I'm thrilled to introduce myself! 🎉 I have a strong educational background, including a BSc in Telecommunication Engineering 📡 and an MEng in Electronics Engineering 🏗️. As a proactive and well-trained Telecommunications Engineer, I've successfully managed projects 📈 for several years. My area of expertise revolves around smart grids and smart metering 💡, where I love finding innovative solutions to modern challenges. 🚀 Additionally, I've been fortunate to share my knowledge and passion as a higher education teacher for the past 3 years 📚.
