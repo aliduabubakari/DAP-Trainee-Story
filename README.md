@@ -27,7 +27,7 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 
 ## 1st Phase Projects' Summary Table
 
-# Projects
+### Projects
 
 | # | Project's Name        | Description                                                                                                 | Additional                                                                                                   |
 |---|-----------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
@@ -38,43 +38,10 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 | 5 | Tip Calculator        | To develop a tip calculator using python.                                                                 | Developed a user-friendly Python program to calculate tips based on bill amount and desired tip percentage. |
 
 
-`Please add text here...`
-<table style="width: 1%;" border="1" cellpadding="1">
-<tbody>
-<tr>
-<td>#</td>
-<td>Project's Name</td>
-<td>Description</td>
-<td>Additional</td>
-</tr>
-
-<tr>
-<td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add any additional info here...</td>
-</tr>
-
-<tr>
-<td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-
-<tr>
-<td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-
-</tbody>
-</table>
 
 ## Career Accelerator Projects' Summary Table
 
-# Projects
+### Projects
 
 | #       | Project's Name                                 | Description                                                                                                        | Article | Deployed App          | App Repository  | Dev Repository  |
 |---------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------|-----------------------|-----------------|-----------------|
@@ -84,93 +51,6 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 | 4       | Natural Language Processing                   | Fine-tuning a pre-trained hugging face model and deploying it in hugging face.                                      | [Article](https://medium.com/ai-science/developing-a-streamlit-web-application-to-analyze-sentiment-towards-covid-vaccines-based-on-tweets-c5552cc88e1c) | [App with Streamlit](https://huggingface.co/spaces/Abubakari/Covid_Vaccines_Tweet_Sentiment_Prediction)       | [App Repo](https://github.com/aliduabubakari/Covid_vaccine-tweet-analytics-app.git)        | [Project Repo](https://github.com/aliduabubakari/Analysing-social-media-sentiment-.git)    |
 | 5       | Embedding Sepsis Machine Learning Prediction with FastAPI | Develop a Machine Learning API (Application Programming Interface) using FastAPI.                                  | [Article](https://medium.com/@alidu143/deploying-fastapi-for-sepsis-occurrence-prediction-f6971aa584ff) | [FastAPI](https://abubakari-sepsis-fastapi-prediction-app.hf.space/docs/)               | [App Repo](https://huggingface.co/spaces/Abubakari/Sepsis-fastapi-prediction-app)        | [Project Repo](https://github.com/aliduabubakari/Sepsis-Classification-with-FastAPI.git)    |
 | Capstone| Customer Churn Prediction                     | To develop a machine learning model and build an app to predict the likelihood of each customer “churning,” i.e. becoming inactive and not making any transactions for 90 days. | None    | [App with Streamlit](https://huggingface.co/spaces/Abubakari/Expresso_Churn_Prediction_streamlit)      | [App Repo](https://github.com/aliduabubakari/Expresso-Telco-Churn-Classification.git)        | [Project Repo](https://github.com/aliduabubakari/Expresso-Telco-Churn-Classification.git)    |
-
-
-`Please add text here...`
-<table style="width: 1%;" border="1" cellpadding="1">
-<tbody>
-<tr>
-<td>#</td>
-<td>Project's Name</td>
-<td>Description</td>
-<td>Article</td>
-<td>Deployed App</td>
-<td>App Repository</td>
-<td>Dev Repository</td>
-</tr>
-
-<tr>
-<td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add the article link here...</td>
-<td>Add the deployed app link here...</td>
-<td>Add the app repository link here...</td>
-<td>Add the development repository link here...</td>
-</tr>
-
-<tr>
-<td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-
-<tr>
-<td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-
-<tr>
-<td>4</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-
-<tr>
-<td>5</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-
-<tr>
-<td>6</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-
-<tr>
-<td>Capstsone</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-
-</tbody>
-</table>
 
 ## AZUBI Interview 
 1. What advice will you give someone considering joining tech? 
