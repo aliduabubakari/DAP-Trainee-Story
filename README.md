@@ -1,4 +1,4 @@
-# 📈🧪 Data Analytics Program 🧠📊 : Story of *___Alidu_Abubakari__*
+# 📈🧪 Data Analytics Program 🧠📊 : Story of *Alidu_Abubakari*
 Here is the place to tell the story of your experience of the Data Analytics Program.
 
 ## Let me introduce Myself
